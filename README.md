@@ -20,3 +20,6 @@ We went through many iterations for this project. Initially we just wanted to cr
 Parallely, we were experimenting with different audio inputs. We started with pre-generated oscilloscope songs. Working through all the bugs, we were able to get real-time microphone input with a color changing environment and oscilloscope music like signal. 
 
 ![vr](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5993%20(1).JPG)
+
+Finally, a video of the experience can be found at the following Vimeo link:
+https://vimeo.com/217347697
