@@ -26,4 +26,4 @@ https://vimeo.com/217347697
 
 <iframe src="https://player.vimeo.com/video/217347697" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[![vr](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5994.JPG)](https://www.youtube.com/watch?v=7EUnN9Eg88A&feature=youtu.be)
+[![vr](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5994.JPG)](https://vimeo.com/217347697)
