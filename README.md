@@ -1,5 +1,6 @@
 # Synesthesia Experience in VR 
 
+![sidebyside](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5943.JPG)
 
 #### Concept
 We were both really interested in using VR to create experiences that not everyone has access to. Synthesia, which is the association of sound with color, is one of those experiences. We created an environment where those who don't have synesthesia can surround themselves with the "color" of sound. 
