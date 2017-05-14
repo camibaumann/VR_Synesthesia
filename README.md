@@ -23,3 +23,6 @@ Parallely, we were experimenting with different audio inputs. We started with pr
 
 Finally, a video of the experience can be found at the following Vimeo link:
 https://vimeo.com/217347697
+
+<iframe src="https://player.vimeo.com/video/217347697" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
