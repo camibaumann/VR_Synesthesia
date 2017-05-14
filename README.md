@@ -1,4 +1,6 @@
 # Synesthesia Experience in VR 
+# A Project for Making Things Interactive at Carnegie Mellon University
+## By Camille Baumann-Jaeger and Ranjini Narayan
 
 ![sidebyside](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5943.JPG)
 
