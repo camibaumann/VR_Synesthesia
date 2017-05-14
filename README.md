@@ -26,4 +26,4 @@ Parallely, we were experimenting with different audio inputs. We started with pr
 Finally, a video of the experience can be found at the following link: 
 https://vimeo.com/217347697
 
-![vr](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5942.JPG)]
+![vr](https://github.com/ranjinipnarayan/VR_Synesthesia/blob/master/final_images/IMG_5942.JPG)
